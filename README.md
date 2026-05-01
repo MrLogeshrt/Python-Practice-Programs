@@ -1,20 +1,26 @@
-# Python Practice Programs
+# Python Practice Programs 🐍
 
 Collection of beginner-friendly Python programs created for learning and practicing programming concepts.
 
-## Programs Included
+## Included Programs
 - Calculator
 - Contact Book
 - Number Guessing Game
 - Palindrome Checker
 - Quiz Program
-- Rock Paper Scissor Game
-- Student Marks Manager
+- Rock Paper Scissors Game
+- Student Marks Management System
 - Timer Countdown
-- Number to Word Converter
+- Number From Word Converter
 
 ## Technologies Used
 - Python
 
 ## Purpose
-This repository is created to improve Python programming and problem-solving skills.
+This repository is created to improve:
+- Python programming
+- Logic building
+- Problem-solving skills
+
+## Author
+LOGESHWARAN R
